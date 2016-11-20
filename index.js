@@ -52,7 +52,6 @@ var setTime=setInterval(function(){
         
     }
 
-
     // fs.readFile('message.txt', function (err, logData) {
     //     if (err) throw err;
 
